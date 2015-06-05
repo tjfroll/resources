@@ -14,6 +14,7 @@ These are simple, entertaining videos that explain very specific parts about jav
 - Arrays: https://www.youtube.com/watch?v=Rx_JFOSxgpY
 - Understanding 'this': https://www.youtube.com/watch?v=yuo8YqKDQ-M
 - Understanding scope and hoisting: https://www.youtube.com/watch?v=7INtYcr8QIY
+
 -- Various --
 
 - HTML5, CSS3, and DOM performance: https://www.youtube.com/watch?v=q_O9_C2ZjoA
