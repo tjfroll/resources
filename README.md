@@ -29,6 +29,7 @@ These are simple, entertaining videos that explain very specific parts about jav
 - Faster HTML and CSS by understanding the layout engine (terrible speaker, good info): https://www.youtube.com/watch?v=a2_6bGNZ7bA
 - Effectively managing memory at Gmail scale: https://www.youtube.com/watch?v=hqotCdm6Cx4
 - DevTools state of the union 2015: http://jqueryuk.com/2015/videos.php?s=devtools-state-of-the-union
+- Basic debugging tipsL http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/
 
 -- Reading --
 
